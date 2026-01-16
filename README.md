@@ -1,4 +1,4 @@
-# khursheed
+
 # Hi,👋 I'm Khursheed
 
 
@@ -29,10 +29,6 @@ Building AviationOps — a platform to discover incident reports and events to h
 
 ---
 
-
-
-
----
 
 ## 🤝 Collaboration
 I enjoy working with curious, building open-source tools, shipping a new product, or exploring how AI can augment systems. If you want to collaborate or build together, reach out:
